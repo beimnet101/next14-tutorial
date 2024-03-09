@@ -5,8 +5,7 @@ import Image from "next/image";
 // FETCH DATA WITH AN API
 // const getData = async (userId) => {
 //   const res = await fetch(`https://jsonplaceholder.typicode.com/users/${userId}` ,{cache:"no-store"});
-
-//   if (!res.ok) {
+//    if (!res.ok) {
 //     throw new Error("Something went wrong");
 //   }
 
